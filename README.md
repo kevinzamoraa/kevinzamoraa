@@ -2,8 +2,6 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Kevin Zamora, a Full Stack Developer from Spain 🇪🇸</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Kevin Zamora, I'm a spanish person and I live in Spain -->
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;I am currently in active job research\
@@ -13,7 +11,7 @@
 ✍️ &nbsp;In my free time, I pursue Graphic and Web Designing and sometimes also Logo Designing and Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at kevin.zamora.amela@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](http://www.kevinzamora) (_It is currently in development with Angular and Firebase services_) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;For more info: Please have a look at my [Resume](http://www.kevinzamora) or at my [Linkedin Profile](https://www.linkedin.com/in/kevin-zamora-webdev/) (_The web resume is currently in development with Angular and Firebase services_) for more details about me. I'm open to feedback and suggestions!
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -38,6 +36,7 @@
 ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)&nbsp;
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)nbsp;
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?logo=materialdesign&logoColor=fff&style=for-the-badge)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
 
@@ -64,6 +63,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
+![Netbeans](https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6?logo=apachenetbeanside&logoColor=fff&style=for-the-badge))&ntsp;
 ![Trello](https://img.shields.io/badge/Trello-Board-blueviolet?style=for-the-badge)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
@@ -72,6 +72,19 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)&nbsp;
+
+
+### 🧰 &nbsp;Graphic Design Tools
+
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge)&nbsp;
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-000?logo=coreldraw&logoColor=fff&style=for-the-badge)&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge)&nbsp;
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-F36?logo=adobeindesign&logoColor=fff&style=for-the-badge)&nbsp;
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=for-the-badge)&nbsp;
+![GIMP](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=fff&style=for-the-badge)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=fff&style=for-the-badge)&nbsp;
+![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)&nbsp;
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
