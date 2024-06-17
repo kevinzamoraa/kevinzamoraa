@@ -1,17 +1,15 @@
 ![Banner](./assets/header.png)
 
-![Kevin Zamora Amela](http://kevinzamora.com)
-
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Kevin Zamora, a Full Stack Developer from Spain 🇪🇸</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Kevin Zamora, I'm a spanish person and I live in Spain -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am also in active job research\
+👨‍💻 &nbsp;I am currently in active job research\
 💡 &nbsp;I like to explore new technologies and develop software solutions and learning about quick hacks.\
-🎓 &nbsp;I am Currently studying Multi-platform Application Development cycle and compaginating it with other specialization courses and professional certificates\
-🌱 &nbsp;I'm on track for learning more about more and more about Microservice Based Architecture, Artificial Intelligence and Machine Learning in my sparetime.\
+🎓 &nbsp;I am also studying Multi-platform Application Development cycle and compaginating it with other specialization courses and professional certificates\
+🌱 &nbsp;I'm on track for learning more about more and more about Microservice Based Architecture, Artificial Intelligence and Machine Learning in my spare time.\
 ✍️ &nbsp;In my free time, I pursue Graphic and Web Designing and sometimes also Logo Designing and Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at kevin.zamora.amela@gmail.com! I'll try to respond as soon as I can.\
@@ -45,6 +43,7 @@
 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)&nbsp;
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)&nbsp;
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
@@ -56,6 +55,7 @@
 
 ![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue)&nbsp;
 ![Fire Store](https://img.shields.io/badge/Cloud%20Firestore-%20?style=for-the-badge&logo=firebase&logoColor=white&color=green)&nbsp;
+![Oracle Database](https://img.shields.io/badge/-Oracle-C0C0C0?logo=Oracle&logoColor=F80000&style=for-the-badge)
 
 ### 🧰 &nbsp;Version Controll & Tools 
 
