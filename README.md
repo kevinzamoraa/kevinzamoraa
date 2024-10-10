@@ -88,10 +88,10 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/zamelkev">
+  <a href="https://github.com/kevinzamoraa">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zamelkev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/zamelkev">
+  <a href="https://github.com/kevinzamoraa">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zamelkev&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
