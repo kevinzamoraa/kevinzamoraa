@@ -89,15 +89,15 @@
 
 <p align="center">
   <a href="https://github.com/kevinzamoraa">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zamelkev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kevinzamoraa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/kevinzamoraa">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zamelkev&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kevinzamoraa&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zamelkev&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinzamoraa&theme=dark&hide_border=true"/>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
@@ -111,7 +111,7 @@
 ### 🐍 &nbsp;That's How Commits move ...
 
 <div align="center">
-  <a href="https://github.com/zamelkev/">
+  <a href="https://github.com/kevinzamoraa/">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
